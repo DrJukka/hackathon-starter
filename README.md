@@ -529,6 +529,7 @@ That's a custom error message defined in `app.js` to indicate that there was a
 problem connecting to MongoDB:
 
 ```js
+
 mongoose.connection.on('error', function() {
   console.error('MongoDB Connection Error. Please make sure MongoDB is running.');
 });
