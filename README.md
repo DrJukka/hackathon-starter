@@ -1,6 +1,5 @@
 ![](https://lh4.googleusercontent.com/-PVw-ZUM9vV8/UuWeH51os0I/AAAAAAAAD6M/0Ikg7viJftQ/w1286-h566-no/hackathon-starter-logo.jpg)
-Hackathon Starter 
-[![Build Status](http://jukkajenkinsdns.westus.cloudapp.azure.com:8080/buildStatus/icon?job=nosamplede)](http://jukkajenkinsdns.westus.cloudapp.azure.com:8080/job/nosamplede)
+Hackathon Starter  [![Build Status](http://jukkajenkinsdns.westus.cloudapp.azure.com:8080/buildStatus/icon?job=nosamplede)](http://jukkajenkinsdns.westus.cloudapp.azure.com:8080/job/nosamplede)
 =======================
 
 [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/sahat) [![Join the chat at https://gitter.im/sahat/hackathon-starter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sahat/hackathon-starter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Thinkful Pair on Node](https://tf-assets-staging.s3.amazonaws.com/badges/thinkful_repo_badge.svg)](http://start.thinkful.com/node/)
